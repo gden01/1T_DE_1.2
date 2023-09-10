@@ -3,3 +3,4 @@
 с. Python, Scala, SQL, Hadoop, Apache AirFlow
 d. Освоить ключевые навык дата-инженера
 е. Прогулки
+f. Добавляю цвет глаз
